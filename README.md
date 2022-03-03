@@ -1,5 +1,15 @@
 # NeuroPixels
+With the development of technology, human interests have expanded to the brain, which used to be an unknown area.
+There are fMRI, EEG, and many other methods for brain analysis.
+So why do we use a new method called neuropixels?First, basically, neuropixels measure Neuron signals directly by inserting them into the brain while awake.
+For this reason, meaningful data can be obtained while learning several tasks.
+Next, the neuropixel has a total of 384 channels and can measure numerous signals simultaneously in each channel.It is possible to obtain information on vast Neuron population by simultaneously measuring many neurons at a time.
+
+
 ## VR rig
+The most important key point when setting up multiple devices to use neuropixels is to be perfectly horizontal and perpendicular.
+This is a necessary process to probe the exact part of the mouse brain.
+
 ### lick sensor with water reward system
 <img src = "https://user-images.githubusercontent.com/90582481/156494129-5e2e5222-1b04-467e-9068-8ffcea865737.png" width="20%"><img src = "https://user-images.githubusercontent.com/90582481/156494144-80a0ae98-6b52-4bb0-92b6-5f06a101e496.png" width="20%">
 ### rotary encoder with wheel
@@ -41,10 +51,51 @@ Soldering the ground pins that have been manufactured in advance.
 ### craniotomy
 ## Kilosort
 ### setting
+ Cuda 11.1, Matlab 2021a, Visual studio 2019 16.11.8
+ Download kilosort code file from:
+https://github.com/MouseLand/Kilosort
+change directory to CUDA folder in code,
+>>>mexGPUall
+Both kilosort and kilosort2 were compiled without errors.
+change directory to D:\’folder with code’,
+>>>kilosort
+
 ### Run
+
 ## Phy
 ### setting
+Install Anaconda: Python is installed automatically.
+
+(Install Phy: https://phy.readthedocs.io/en/latest/installation/)
+=> Upgrade Phy to Phy 2.0b1 (Reference: phy · PyPI)
+
+ImportError: cannot import name 'Selector' from 'phylib.io.array' · Issue #1110 · cortex-lab/phy · GitHub
+
+
+Open Anaconda Prompt
+Type
+conda create -n phy2 python pip numpy matplotlib scipy h5py pyqt cython pillow -y
+conda activate phy2
+pip install phy --upgrade
+Type
+
+Pip install phy==2.0b1
+Type
+cd path/to/my/spikesorting/output
+phy template-gui params.py
+
+
 ### Run
+Open Anaconda prompt
+Type 
+conda activate phy2
+Type the drive where the data is (Ex. E:, You have to type the drive before changing directory.)
+Type
+cd ‘where the data is/params.py is’
+Type
+phy template-gui params.py  *If you use linux , check the params.py because windows and linux is little different to load data (If data is located in other drive)
+
+
 ## Data acquisition
 
 ### 1.put the mouse in the VR rig and set details such as water port.
@@ -61,4 +112,23 @@ Soldering the ground pins that have been manufactured in advance.
 
 ## AP_histology
 ### setting
+
+AP_hisology download
+npy-matlab download
+Allen ccf atlas download
+
+error -> function ‘loadStructureTree’ is not define
+
+-> allen CCF master download
+
+error ->  'smooth' requires one of the following:
+  Curve Fitting Toolbox
+  Econometrics Toolbox
+  Sensor Fusion and Tracking Toolbox
+-> download these packages
+
+error->'bwareaopen' requires Image Processing Toolbox.
+
+-> download this package
+
 ### Run
