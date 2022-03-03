@@ -7,7 +7,7 @@
 ### head fix with linear actuator
 <img src = "https://user-images.githubusercontent.com/90582481/156494028-3f07a84f-1b72-4a92-b20e-d2703cc7dde9.png" width="20%"><img src = "https://user-images.githubusercontent.com/90582481/156494028-3f07a84f-1b72-4a92-b20e-d2703cc7dde9.png" width="20%"> <img src = "https://user-images.githubusercontent.com/90582481/156494202-53508f10-a145-4227-b95e-febc316ae776.png" width="20%">
 ### monitor
-### DAQ (PXIe" width="20%"> - Neuropixels
+### DAQ (PXIe) - Neuropixels
 <img src = "https://user-images.githubusercontent.com/90582481/156494053-0ef8a7aa-0ced-4634-b611-c68227b12455.png" width="20%"> <img src = "https://user-images.githubusercontent.com/90582481/156494068-f4347089-09bd-430e-bac5-4f6df522aa4e.png" width="20%"> <img src = "https://user-images.githubusercontent.com/90582481/156494078-fe365dee-62a2-4b15-8222-1e0069e7667c.png" width="20%"> <img src = "https://user-images.githubusercontent.com/90582481/156494100-89d26f9d-e3fb-4633-95ae-9ce6415f050a.png" width="20%">
 ## NeuroPixels probe
 1. Assembling- NeuroPixels
