@@ -4,7 +4,8 @@ There are fMRI, EEG, and many other methods for brain analysis.
 So why do we use a new method called neuropixels?
 First, basically, neuropixels measure Neuron signals directly by inserting them into the brain while awake.
 For this reason, meaningful data can be obtained while learning several tasks.
-Next, the neuropixel has a total of 384 channels and can measure numerous signals simultaneously in each channel.It is possible to obtain information on vast Neuron population by simultaneously measuring many neurons at a time.
+Next, the neuropixel has a total of 384 channels and can measure numerous signals simultaneously in each channel.
+It is possible to obtain information on vast Neuron population by simultaneously measuring many neurons at a time.
 
 
 ## VR rig
