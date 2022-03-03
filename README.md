@@ -45,6 +45,19 @@ Soldering the ground pins that have been manufactured in advance.
 ### setting
 ### Run
 ## Data acquisition
+
+1.put the mouse in the VR rig and set details such as water port.
+2.Remove kiwik-cast
+3.Drop saline
+4.Connect the neuropixels and the interface cable
+5.Connect the ground pin
+6.Connect Neuropixels probe
+7.Run SpikeGLX
+8.Detect the neuropixels
+9. Run the data acquisition
+10. Run the VR-training system (matlab)
+
+
 ## AP_histology
 ### setting
 ### Run
