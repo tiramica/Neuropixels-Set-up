@@ -66,6 +66,12 @@ change directory to D:\’folder with code’,
 >>>kilosort
 
 ### Run
+type kilosort and load data in kilosrt program.
+We use neuropixels phase 3B aligned
+click Run all
+
+<img src = "https://user-images.githubusercontent.com/90582481/156521571-bd84806e-0ece-4a7a-bd82-25f47d590aa8.png" width="20%">
+
 
 ## Phy
 ### setting
