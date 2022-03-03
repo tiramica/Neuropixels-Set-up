@@ -1,7 +1,8 @@
 # NeuroPixels
 With the development of technology, human interests have expanded to the brain, which used to be an unknown area.
 There are fMRI, EEG, and many other methods for brain analysis.
-So why do we use a new method called neuropixels?First, basically, neuropixels measure Neuron signals directly by inserting them into the brain while awake.
+So why do we use a new method called neuropixels?
+First, basically, neuropixels measure Neuron signals directly by inserting them into the brain while awake.
 For this reason, meaningful data can be obtained while learning several tasks.
 Next, the neuropixel has a total of 384 channels and can measure numerous signals simultaneously in each channel.It is possible to obtain information on vast Neuron population by simultaneously measuring many neurons at a time.
 
@@ -52,12 +53,16 @@ Soldering the ground pins that have been manufactured in advance.
 ## Kilosort
 ### setting
  Cuda 11.1, Matlab 2021a, Visual studio 2019 16.11.8
- Download kilosort code file from:
+ 
+Download kilosort code file from:
 https://github.com/MouseLand/Kilosort
 change directory to CUDA folder in code,
+
 >>>mexGPUall
+>>>
 Both kilosort and kilosort2 were compiled without errors.
 change directory to D:\’folder with code’,
+
 >>>kilosort
 
 ### Run
@@ -86,13 +91,21 @@ phy template-gui params.py
 
 
 ### Run
+
 Open Anaconda prompt
+
 Type 
+
 conda activate phy2
+
 Type the drive where the data is (Ex. E:, You have to type the drive before changing directory.)
+
 Type
+
 cd ‘where the data is/params.py is’
+
 Type
+
 phy template-gui params.py  *If you use linux , check the params.py because windows and linux is little different to load data (If data is located in other drive)
 
 
