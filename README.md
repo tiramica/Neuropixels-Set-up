@@ -70,7 +70,7 @@ type kilosort and load data in kilosrt program.
 We use neuropixels phase 3B aligned
 click Run all
 
-<img src = "https://user-images.githubusercontent.com/90582481/156521571-bd84806e-0ece-4a7a-bd82-25f47d590aa8.png" width="20%">
+<img src = "https://user-images.githubusercontent.com/90582481/156521571-bd84806e-0ece-4a7a-bd82-25f47d590aa8.png" width="20%"> <img src = "https://user-images.githubusercontent.com/90582481/156523136-02314c30-87cb-4c1b-9180-8fe53f38d26b.png" width="20%">
 
 
 ## Phy
