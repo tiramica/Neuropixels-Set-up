@@ -13,21 +13,25 @@
 1. Assembling- NeuroPixels
 Carefully place the neuropixels neatly.
 The probe and the iron bar must align parallel.
+
 <img src = "https://user-images.githubusercontent.com/90582481/156494229-9692fd08-0659-458b-8dd6-5777a691a05f.png" width="20%"> <img src = "https://user-images.githubusercontent.com/90582481/156494281-b1645a9a-bee4-4b7c-9b3f-489497938d71.png" width="20%"> <img src = "https://user-images.githubusercontent.com/90582481/156494323-487a77d4-93a5-46de-bfc0-79dd34d23978.png" width="20%">
 
 
 2.Combine-NeuroPixels,iron bar
 Using 5 minute epoxy.
+
 <img src = "https://user-images.githubusercontent.com/90582481/156494373-bd023185-a1f9-4f25-9ed2-1dbafadfc874.png" width="20%">
 
 
 3.Connect-ground pin
 Align the neuropixels as shown in the picture, and spread the space to put in thick paper.protect from heat
 Soldering the ground pins that have been manufactured in advance.
+
 <img src = "https://user-images.githubusercontent.com/90582481/156494424-b3947f1e-62d1-45ac-bb38-cbaed9a8e227.png" width="20%"> <img src = "https://user-images.githubusercontent.com/90582481/156494431-04749844-335f-48e0-9c79-b7f1224d1e1a.png" width="20%"> <img src = "https://user-images.githubusercontent.com/90582481/156494439-23e639b8-d331-40bf-bc74-f450781aed62.png" width="20%">
 
 
 4. Finish
+
 <img src = "https://user-images.githubusercontent.com/90582481/156494463-408669b9-adea-4770-b9d7-510b6494c0e3.png" width="20%"> <img src = "https://user-images.githubusercontent.com/90582481/156494471-f0a802b5-447f-484c-884c-4de52ac373dd.png" width="20%">
 ## Surgery
 ### leveling
