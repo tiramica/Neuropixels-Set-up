@@ -7,6 +7,14 @@
 ### monitor
 ### DAQ (PXIe) - Neuropixels
 
+## NeuroPixels probe
+
+## Surgery
+### leveling
+### headfix
+### ground pin
+### craniotomy
+
 ## Kilosort
 ### setting
 ### Run
@@ -14,12 +22,6 @@
 ## Phy
 ### setting
 ### Run
-
-## Surgery
-### leveling
-### headfix
-### ground pin
-### craniotomy
 
 ## Data acquisition
 
