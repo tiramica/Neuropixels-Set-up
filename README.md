@@ -115,6 +115,9 @@ Type
 
 phy template-gui params.py  *If you use linux , check the params.py because windows and linux is little different to load data (If data is located in other drive)
 
+<img src = "https://user-images.githubusercontent.com/90582481/156524506-2cfb6a45-6167-45d6-83e0-4f41ca4bccaf.png" width="20%">
+
+
 
 ## Data acquisition
 
