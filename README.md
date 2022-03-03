@@ -6,8 +6,8 @@
 <img src = https://user-images.githubusercontent.com/90582481/156494116-d21c112b-537b-4176-bbae-25c31bf51d3d.png" width="20%">
 <img src = https://user-images.githubusercontent.com/90582481/156494148-8824cbb9-6522-42d9-9c2a-cdd4107ba32b.png" width="20%">
 ### head fix with linear actuator
-<img src = https://user-images.githubusercontent.com/90582481/156494011-b26c9c16-bc1d-48fc-a73a-c6398b37cf24.png" width="20%">
-<img src = https://user-images.githubusercontent.com/90582481/156494028-3f07a84f-1b72-4a92-b20e-d2703cc7dde9.png" width="20%">
+<img src = "https://user-images.githubusercontent.com/90582481/156494011-b26c9c16-bc1d-48fc-a73a-c6398b37cf24.png" width="20%">
+
 <img src = "https://user-images.githubusercontent.com/90582481/156494036-b2cf1ad4-d1f5-4568-a8e6-5fbf7e615313.png" width="20%">
 <img src = "https://user-images.githubusercontent.com/90582481/156494202-53508f10-a145-4227-b95e-febc316ae776.png" width="20%">
 ### monitor
