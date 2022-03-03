@@ -10,6 +10,7 @@
 ### DAQ (PXIe) - Neuropixels
 <img src = "https://user-images.githubusercontent.com/90582481/156494053-0ef8a7aa-0ced-4634-b611-c68227b12455.png" width="20%"> <img src = "https://user-images.githubusercontent.com/90582481/156494068-f4347089-09bd-430e-bac5-4f6df522aa4e.png" width="20%"> <img src = "https://user-images.githubusercontent.com/90582481/156494078-fe365dee-62a2-4b15-8222-1e0069e7667c.png" width="20%"> <img src = "https://user-images.githubusercontent.com/90582481/156494100-89d26f9d-e3fb-4633-95ae-9ce6415f050a.png" width="20%">
 ## NeuroPixels probe
+
 1. Assembling- NeuroPixels
 Carefully place the neuropixels neatly.
 The probe and the iron bar must align parallel.
