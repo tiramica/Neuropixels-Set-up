@@ -84,17 +84,16 @@ Install Anaconda: Python is installed automatically.
 ImportError: cannot import name 'Selector' from 'phylib.io.array' · Issue #1110 · cortex-lab/phy · GitHub
 
 
-Open Anaconda Prompt
-Type
+Open Anaconda Prompt.
+Type.
+
 conda create -n phy2 python pip numpy matplotlib scipy h5py pyqt cython pillow -y
 conda activate phy2
 pip install phy --upgrade
-Type
 
+Type.
 Pip install phy==2.0b1
-Type
-cd path/to/my/spikesorting/output
-phy template-gui params.py
+
 
 
 ### Run
