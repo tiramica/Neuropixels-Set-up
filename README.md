@@ -2,8 +2,8 @@
 
 ## VR rig
 ### lick sensor with water reward system
-![image](https://user-images.githubusercontent.com/90582481/156494129-5e2e5222-1b04-467e-9068-8ffcea865737.png)
-![image](https://user-images.githubusercontent.com/90582481/156494144-80a0ae98-6b52-4bb0-92b6-5f06a101e496.png)
+<img src = "https://user-images.githubusercontent.com/90582481/156494129-5e2e5222-1b04-467e-9068-8ffcea865737.png" width="40%">
+<img src = "https://user-images.githubusercontent.com/90582481/156494144-80a0ae98-6b52-4bb0-92b6-5f06a101e496.png" width="40%">
 
 ### rotary encoder with wheel
 ![image](https://user-images.githubusercontent.com/90582481/156494116-d21c112b-537b-4176-bbae-25c31bf51d3d.png)
