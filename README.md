@@ -16,6 +16,20 @@ This is a necessary process to probe the exact part of the mouse brain.
 <img src = "https://user-images.githubusercontent.com/90582481/156494129-5e2e5222-1b04-467e-9068-8ffcea865737.png" width="20%"><img src = "https://user-images.githubusercontent.com/90582481/156494144-80a0ae98-6b52-4bb0-92b6-5f06a101e496.png" width="20%">
 ### rotary encoder with wheel
 <img src = "https://user-images.githubusercontent.com/90582481/156494116-d21c112b-537b-4176-bbae-25c31bf51d3d.png" width="20%"> <img src = "https://user-images.githubusercontent.com/90582481/156494148-8824cbb9-6522-42d9-9c2a-cdd4107ba32b.png" width="20%">
+
+#### Rotary encoder    
+Right position.
+<img src = "https://user-images.githubusercontent.com/90582481/156690403-0d741c93-0225-4240-bd1a-f35a6d738361.png" width="20%"> <img src = "https://user-images.githubusercontent.com/90582481/156690420-e768c187-50bd-4b8f-901e-8d4fe987fc87.png" width="20%">
+
+1. Put 5pin cable to ratary encoder.
+2. Soldering G to GND, A to 1, B to 3
+3. Soldering new cable(black and red), Black to G,Red to D
+4. 5v (orange line) connect daq board 5V
+5. red line and black line will connect daq board
+6. Last, connect teensy board with PC by using usb cable and load rotary encoder program.
+ * we don’t use purple line.
+
+
 ### head fix with linear actuator
 <img src = "https://user-images.githubusercontent.com/90582481/156494028-3f07a84f-1b72-4a92-b20e-d2703cc7dde9.png" width="20%"><img src = "https://user-images.githubusercontent.com/90582481/156494028-3f07a84f-1b72-4a92-b20e-d2703cc7dde9.png" width="20%"> <img src = "https://user-images.githubusercontent.com/90582481/156494202-53508f10-a145-4227-b95e-febc316ae776.png" width="20%">
 ### monitor
