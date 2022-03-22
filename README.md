@@ -31,10 +31,10 @@ Right position.
 
 
 # Checking the Rotary encoder is well activate
-1.Open NI Max
-2.click the 'Dev1' which is Daq board
-3. Open Test Pannel
-4. Choose correct AI channel
+1.Open NI Max.
+2.click the 'Dev1' which is Daq board.
+3. Open Test Pannel.
+4. Choose correct AI channel.
 5. check signal to rotate wheel.
 
 
