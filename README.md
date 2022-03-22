@@ -24,10 +24,18 @@ Right position.
 1. Put 5pin cable to ratary encoder.
 2. Soldering G to GND, A to 1, B to 3
 3. Soldering new cable(black and red), Black to G,Red to D
-4. 5v (orange line) connect daq board 5V
-5. red line and black line will connect daq board
+4. 5v (orange line) connect daq board 5V (14)
+5. red line(33_AI1) and black line(32_AIGND) will connect daq board
 6. Last, connect teensy board with PC by using usb cable and load rotary encoder program.
  * we don’t use purple line.
+
+
+# Checking the Rotary encoder is well activate
+1.Open NI Max
+2.click the 'Dev1' which is Daq board
+3. Open Test Pannel
+4. Choose correct AI channel
+5. check signal to rotate wheel.
 
 
 ### head fix with linear actuator
