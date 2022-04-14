@@ -68,8 +68,19 @@ Soldering the ground pins that have been manufactured in advance.
 4. Finish
 
 <img src = "https://user-images.githubusercontent.com/90582481/156494463-408669b9-adea-4770-b9d7-510b6494c0e3.png" width="20%"> <img src = "https://user-images.githubusercontent.com/90582481/156494471-f0a802b5-447f-484c-884c-4de52ac373dd.png" width="20%">
-## Surgery
+## 1st - Surgery (implant headplate and ground pin) 
+### anesthesia
+    -dexamethason 30uL, KetI 70uL (30g of mice)
+    -isofluoren, chamber 4 level, O2 - 3, air -7
+    -isofluoren, mouse tube, 0.5~1.0 level, O2 - 3, air - 7
+### Ear bar
+    - fix mice's head using ear bar.
 ### leveling
+    - leveling with bregma & labda x,z position. It is good to labeling on bregma & lambda using pen.
+### target check
+    - If the leveling is done, marking the target position using pen.
+<img src = "https://user-images.githubusercontent.com/90582481/163342201-3634c521-a580-4af4-8413-39c1c6277646.png" width="20%">
+
 ### headfix
 ### ground pin
 ### craniotomy
