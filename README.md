@@ -122,9 +122,9 @@ Open Anaconda Prompt.
 
 
 ```conda create -n phy2 python pip numpy matplotlib scipy h5py pyqt cython pillow -y
-```conda activate phy2
-```pip install phy --upgrade
-```Pip install phy==2.0b1
+conda activate phy2
+pip install phy --upgrade
+Pip install phy==2.0b1```
 
 
 
@@ -134,7 +134,7 @@ Open Anaconda prompt
 
  
 
-```conda activate phy2
+```conda activate phy2```
 
 Type the drive where the data is (Ex. E:, You have to type the drive before changing directory.)
 
@@ -144,7 +144,7 @@ cd ‘where the data is/params.py is’
 
 Type
 
-```phy template-gui params.py 
+```phy template-gui params.py ```
 
 *If you use linux , check the params.py because windows and linux is little different to load data (If data is located in other drive)
 
